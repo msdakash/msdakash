@@ -1,9 +1,11 @@
-# Akash Shaw 👨‍💻
-Frontend-Focused Software Engineer | Angular • React • TypeScript
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Akash+Shaw;Frontend-Focused+Software+Engineer;Angular+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 👋 Hi, I'm Akash Shaw
 
 I am a frontend-focused software engineer with strong expertise in Angular and React, building fast, scalable, and maintainable web applications.
 
@@ -15,69 +17,82 @@ I focus on writing reliable, maintainable code and solving complex engineering p
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Angular](https://skillicons.dev/icons?i=angular,react,ts,js,css,tailwind)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-black?logo=express)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,java)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### Cloud & Tools
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
-
-### Computer Science Fundamentals
-- Data Structures & Algorithms
-- DBMS
-- REST API Design
-- System Design Basics
+![Tools](https://skillicons.dev/icons?i=azure,git,github,vscode,figma)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=msdakash&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msdakash&layout=compact&theme=github_dark)
-
----
-
-## 🔥 What I Build
-
-
-- Enterprise Angular and React applications
--  Full stack web applications
-- REST APIs using Node.js and Spring Boot
-- Database-driven applications
-- Responsive modern UI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msdakash&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdakash&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
+## 🔥 Contribution Streak
 
-## 🎯 Engineering Focus
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=msdakash&theme=github-dark&hide_border=true"/>
+</p>
 
-- Building scalable frontend architectures
-- Writing clean, maintainable, production-ready code
-- Performance optimization and responsiveness
-- End-to-end system understanding
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msdakash&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Engineering Focus
+
+- Scalable frontend architecture
+- Performance optimization
+- Clean, maintainable code
+- Production-grade applications
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=msdakash&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-GitHub: https://github.com/msdakash  
-LinkedIn: https://www.linkedin.com/in/akashshawjs/
+<p align="left">
+  <a href="https://github.com/msdakash">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  
+  <!-- Add LinkedIn -->
+  <!-- Replace link below -->
+  <a href="https://www.linkedin.com/in/akashshawjs/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=msdakash&color=blue&style=flat-square"/>
+</p>
